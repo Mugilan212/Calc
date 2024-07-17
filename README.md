@@ -1,28 +1,4 @@
-# Ex.08 Design of a Standard Calculator
-## Date: 04/11/2023
-
-## AIM:
-To design a web application for a standard calculator with minimum five operations.
-
-## DESIGN STEPS:
-
-### Step 1:
-Clone the github repository and create Django admin interface.
-
-### Step 2:
-Change settings.py file to allow request from all hosts.
-
-### Step 3:
-Use CSS for creating attractive colors.
-
-### Step 4:
-Write JavaScript program for implementing five different operations.
-
-### Step 5:
-Validate the HTML and CSS code.
-
-### Step 6:
-Publish the website in the given URL.
+## Standard Calculator
 
 ## PROGRAM :
 ```html
@@ -158,8 +134,4 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 ![image](https://github.com/Mugilan212/Calc/assets/144508901/e6c848fb-be1d-4f89-8391-bafa8634941d)
-![image](https://github.com/Mugilan212/Calc/assets/144508901/a592ac0c-44d4-4f53-96e6-b8990f6a21dd)
 
-
-## RESULT:
-The program for designing a standard calculator using HTML and CSS is executed successfully.
